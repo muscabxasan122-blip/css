@@ -1,0 +1,14 @@
+#first {
+          text-align: center; 
+          color:bisque;
+       }
+       #second{
+        color: black;
+       }
+       #third{
+        color: blue;
+       }
+       body {
+        background-color: chocolate;
+       }
+     </style>
