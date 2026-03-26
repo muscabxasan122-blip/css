@@ -1,0 +1,10 @@
+  *{
+        color: blue !important;
+        font-size: 30px;
+        text-transform: uppercase;
+    }
+
+
+    body {
+        background-color: aquamarine;
+    }
