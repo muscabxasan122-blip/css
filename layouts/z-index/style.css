@@ -1,0 +1,11 @@
+div {
+
+    border-style: solid;
+    height: 200px;
+    width: 200px;
+
+    color: aqua;
+    border-width: 12px;
+    border-radius: 20px;
+
+}
