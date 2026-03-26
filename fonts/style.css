@@ -1,0 +1,14 @@
+h1 {
+    font-size: 100px;
+    font-family: serif
+    font-style: italic;
+    font-weight: bolder;
+    font-variant: small-caps;
+}
+p {
+    line-height: 1.6;
+
+    word-spacing: 2px;
+
+    letter-spacing: 1px;
+}
