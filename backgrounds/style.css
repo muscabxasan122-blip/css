@@ -1,0 +1,9 @@
+body {
+    background-color: blueviolet;
+    background-image: url(https://i.pinimg.com/736x/9d/53/95/9d5395b5e59b68752f869488518ae802.jpg);
+    background-repeat: no-repeat;
+    
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
